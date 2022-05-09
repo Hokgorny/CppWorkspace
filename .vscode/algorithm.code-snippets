@@ -1,0 +1,17 @@
+{
+	"algorithm-init": {
+        "prefix": "algorithm-init",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "",
+            "using namespace std;",
+            "",
+            "int main(void){",
+            "  freopen(\"input.txt\", \"r\", stdin);",
+            "  ",
+            "  ",
+            "}"
+        ],
+        "description": "alogorithm init snippet"
+    }
+}
