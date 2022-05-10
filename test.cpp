@@ -6,6 +6,6 @@ int main(void)
 {
   int x;
   cin >> x;
-  int y = pow(x, 2);
+  double y = (double) x / (double) 3;
   cout << y;
 }
