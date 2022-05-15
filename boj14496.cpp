@@ -29,7 +29,6 @@ int bfs(vector<vector<int>> &lst){
 int main(void){
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
-  freopen("input.txt", "r", stdin);
 
   cin >> a >> b >> n >> m;
   vector<vector<int>> lst(n + 1, vector<int> ());
