@@ -49,6 +49,6 @@ int main(void){
       scanf("%1d", &field[i][j]);
     }
   }
-  if (n == 1 & m == 1) cout << 1;
+  if (n == 1 && m == 1) cout << 1;
   else cout << bfs();
 }
